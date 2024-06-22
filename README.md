@@ -6,7 +6,7 @@ Esta API é construída usando o framework NestJS. Ela fornece um endpoint para 
 - [Instalação do `server` e `client`](#instalação-do-server-e-client)
 - [Executando as APIs `server` e `client`](#executando-as-apis-server-e-client)
 - [Endpoints da API `client`](#endpoints-da-api-client)
-  - [POST /stream/numbers](#post-/stream/numbers)
+  - [POST /stream/numbers](#post-streamnumbers)
 - [Serviços](#serviços)
   - [StreamService](#streamservice)
 - [Tratamento de Erros](#tratamento-de-erros)
