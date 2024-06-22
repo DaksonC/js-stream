@@ -3,23 +3,28 @@
 Esta API é construída usando o framework NestJS. Ela fornece um endpoint para transmitir números aleatórios em tempo real usando Server-Sent Events (SSE).
 
 ## Índice
-- Instalação
-- Executando a API
-- Endpoints da API
+- Instalação do `server` e `client`
+- Executando as APIs `server` e `client`
+- Endpoints da API `client`
   - POST /stream/numbers
 - Serviços
   - StreamService
 - Tratamento de Erros
 
-## Instalação
+## Instalação do `server` e `client`
 Clone o repositório:
 ```
- git clone https://github.com/DaksonC/js-stream
+ git clone https://github.com/DaksonC/js-stream.git
 ```
 Navegue até o diretório do projeto:
 ```
- cd js-stream
+ cd js-stream/client
 ```
+e
+```
+ cd js-stream/server
+```
+
 Instale as dependências:
 ```
 npm install
@@ -28,8 +33,8 @@ ou
 ```
 yarn
 ```
-## Executando a API
-Inicie o servidor da API executando:
+## Executando as APIs `server` e `client`
+Inicie o servidor das APIs executando:
 ```
 npm run start:dev
 ```
