@@ -1,1 +1,1 @@
-# js-stream
+# API de Stream de Números Aleatórios
