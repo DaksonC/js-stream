@@ -3,7 +3,7 @@
 Esta API é construída usando o framework NestJS. Ela fornece um endpoint para transmitir números aleatórios em tempo real usando Server-Sent Events (SSE).
 
 ## Índice
-- Instalação do `server` e `client`
+- [Instalação do `server` e `client`](#instalação-do-server-e-client)
 - Executando as APIs `server` e `client`
 - Endpoints da API `client`
   - POST /stream/numbers
