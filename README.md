@@ -42,9 +42,9 @@ ou
 ```
 yarn start:dev
 ```
-O servidor começará a ouvir na porta 3333.
+O servidor começará a ouvir na porta 3333 para o `server` e 3001 para o `client` .
 
-## Endpoints da API
+## Endpoints da API `client`
 ## POST /stream/numbers
 Este endpoint transmite números aleatórios em tempo real usando Server-Sent Events (SSE).
 
