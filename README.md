@@ -64,7 +64,7 @@ O servidor começará a ouvir na porta 3333 para o `server` e 3001 para o `clien
 
 ## Endpoints da API `client`
 
-## POST /stream/numbers
+## POST `/stream/number`
 
 Este endpoint transmite números aleatórios em tempo real usando Server-Sent Events (SSE).
 
