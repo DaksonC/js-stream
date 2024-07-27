@@ -153,4 +153,4 @@ Resposta:
 
 ## Conclusão
 
-Esta API fornece um mecanismo simples para transmitir números aleatórios usando Server-Sent Events. Ela é estruturada com modularidade em mente, utilizando serviços e controladores do NestJS para separar responsabilidades e tornar a base de código mantível e escalável
+Esta API fornece um mecanismo simples para transmitir números aleatórios usando Server-Sent Events. Ela é estruturada com modularidade em mente, utilizando serviços e controladores do NestJS para separar responsabilidades e tornar a base de código mantível e escalável.
